@@ -1,0 +1,7 @@
+@article{REPO333,
+    author = "Zhu, J. and Wang, Z. and Chen, J. and Chen, Y. and Jiang, Y.",
+    booktitle = "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "6898-6907",
+    title = "{Balanced Contrastive Learning for Long-Tailed Visual Recognition}",
+    year = "2022"
+}
