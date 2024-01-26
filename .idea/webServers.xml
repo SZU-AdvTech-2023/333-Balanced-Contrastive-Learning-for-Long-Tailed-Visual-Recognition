@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6f6dafb-5f2a-429e-ab0f-b406920221a0" name="wifi-bcl">
+        <fileTransfer rootFolder="/work/wxb" accessType="SFTP" host="172.31.68.36" port="22" sshConfigId="dc0425e5-b849-4361-bce7-36d6f18b5277" sshConfig="wxb@172.31.68.36:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
